@@ -1,0 +1,10 @@
+Version 1.1.0 Update Notes:
+
+- Added new bard storylines, including tales of cursed artifacts and haunted forests.
+- Improved NPC reactions to bard performances, with more varied responses and rewards for successful shows.
+- Fixed bug that caused bard songs to sometimes continue playing after leaving a tavern.
+- Adjusted difficulty of certain combat encounters to provide a greater challenge for high-level players.
+- Added new achievements for completing various quests and defeating powerful enemies.
+- Updated graphics and sound effects for improved immersion and atmosphere.
+- Tweaked user interface for better navigation and accessibility.
+- Improved overall game performance and stability.
